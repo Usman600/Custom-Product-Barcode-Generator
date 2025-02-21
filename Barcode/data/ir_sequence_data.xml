@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <record id="seq_product_barcode" model="ir.sequence">
+        <field name="name">Product Barcode Sequence</field>
+        <field name="code">product.barcode.sequence</field>
+        <field name="prefix">EVO</field>
+        <field name="padding">4</field>
+    </record>
+</odoo>
